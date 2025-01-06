@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <title>موقعي الشخصي</title>
+</head>
+<body>
+    <h1>مرحبًا بكم في موقعي الشخصي!</h1>
+    <p>هذا مثال لصفحة رئيسية.</p>
+</body>
+</html>
