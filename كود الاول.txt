@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TOTO</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>مرحباً بك في موقعي الشخصي!</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">عنّي</a></li>
+                <li><a href="#skills">مهاراتي</a></li>
+                <li><a href="#contact">اتصل بي</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="about">
+        <h2>عنّي</h2>
+        <p>مرحباً! اسمي <strong>عبدالوهاب علي</strong>، وأنا <em>[وظيفتك أو اهتماماتك]</em>. أعمل في <em>[مجال عملك]</em> وأحب <em>[هواياتك]</em>.</p>
+    </section>
+
+    <section id="skills">
+        <h2>مهاراتي</h2>
+        <ul>
+            <li>HTML & CSS</li>
+            <li>JavaScript</li>
+            <li>برمجة المواقع</li>
+            <li>تصميم الجرافيك</li>
+        </ul>
+    </section>
+
+    <section id="contact">
+        <h2>اتصل بي</h2>
+        <p>يمكنك التواصل معي عبر البريد الإلكتروني: [بريدك الإلكتروني]</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 جميع الحقوق محفوظة.</p>
+    </footer>
+</body>
+</html>
